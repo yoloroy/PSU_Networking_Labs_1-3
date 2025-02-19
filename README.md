@@ -1,6 +1,6 @@
 # PSU_Networking_Labs_1-3
 
-![Little to no demonstration.mp4](./Little%20to%20no%20demonstration.mp4)
+https://github.com/user-attachments/assets/35c39d99-7327-4614-848d-baa683b5056c
 
 - Pathfinding
   - [(ugly) Dijkstra implementation](./src/main/kotlin/algorithms/Dijkstra.kt) 
